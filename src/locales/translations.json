@@ -111,7 +111,7 @@
       "settingsSaved": "Instellingen succesvol opgeslagen", "discard": "Verwerpen", "save": "Voorkeuren opslaan", "loadingLogs": "Logs laden...", "exportLogs": "Logs exporteren", "errorLog": "Foutenlogboek", "recentRuntimeLogs": "Recente runtime-logs voor probleemoplossing netwerk-/sensorkwesties."
     }
   },
-  "heb": {
+  "he": {
     "app": {"name": "Home Assistant Desktop", "title": "Home Assistant Desktop"},
     "setup": {
       "title": "הגדרת חיבור",
